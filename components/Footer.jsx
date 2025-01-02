@@ -61,9 +61,6 @@ const Footer = () => {
           </div>
 
           <span className='inline-flex lg:ml-auto lg:mt-0 mt-6 w-full justify-center md:justify-start md:w-auto'>
-            <a className='text-gray-500 text-xl hover:text-blue-600 hover:scale-125 ease-in-out duration-300'>
-              <FaFacebookF />
-            </a>
             <a className='ml-3 text-gray-500 text-xl hover:text-blue-500 hover:scale-125 ease-in-out duration-300'>
               <FaTwitter />
             </a>
@@ -81,19 +78,19 @@ const Footer = () => {
       <div className='bg-[#001a36]'>
         <div className='container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row'>
           <p className='text-gray-300 text-sm text-center sm:text-left'>
-            &copy; 2023 KodeCraft Solutions —
+            &copy; 2024 KodeCraft Solutions —
             <Link
-              href='https://youtube.com/@CodeWaveWithAsante'
+              href='https://github.com/cskfanbase43606'
               className='text-[#1199e7] ml-1'
               target='_blank'
               rel='noopener noreferrer'
             >
-              @CodeWave
+              @RahulRana
             </Link>
           </p>
 
           <span className='sm:ml-auto sm:mt-0 mt-2 sm:w-auto w-full sm:text-left text-center text-gray-300 text-sm'>
-            Designed by CodeWave
+            Designed by Rahul Rana
           </span>
         </div>
       </div>
